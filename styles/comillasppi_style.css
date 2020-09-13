@@ -1,0 +1,46 @@
+.comillasppi-popupbox {
+    background-color: #fefefe;
+    border-radius: 5px;
+    box-shadow: 1px 1px 5px #444;
+    display: none;
+    left: 50%;
+    margin-left: -200px;
+    position: fixed;
+    top: 30%;
+    width: 400px;
+    z-index: 999999;
+}
+.comillasppi-header {
+    background-color: #eee;
+    border: 1px #ccc solid;
+    border-radius: 5px;
+    font-weight: bold;
+    margin-left: 2px;
+    margin-top: 2px;
+    padding: 5px;
+    width: 396px;
+}
+.comillasppi-mask {
+    background: rgba(0, 0, 0, 0.5);
+    height: 100%;
+    left: 0;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 99999;
+}
+.comillasppi-text {
+    padding: 20px;
+}
+.comillasppi-url {
+    padding: 20px;
+}
+@media (min-width: 544px) {
+    div.comillasppi_popup.comillasppi-popupbox > div.uep-wrap.modal-dialog.modal.show.modal-dialog.modal-content {
+        margin: 0 auto !important;
+    }
+}
+
+#page-header {
+    background-image: url(/images/course-image.jpg);
+}
