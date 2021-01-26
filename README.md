@@ -27,6 +27,19 @@
 - Tema 16: React
 - Tema 17: Seguridad
 
+## Prácticas
+
+- Práctica 1 (Tema 4): Crea un site en HTML en Github
+- Práctica 2 (Tema 5): Consume un API REST JSON y visualizalo en un documento web
+- Práctica 3 (Tema 7): Sirve una pagina Web desde Spring Boot
+- Práctica 4 (Tema 7): Crea un API REST
+- Práctica 5 (Tema 8): Prueba un API REST en todas sus capas
+- Práctica 6 (Tema 10): Acceso a Base de datos PostgreSQL
+- Práctica 7 (Tema 11): Acceso a Base de datos MongoDB
+- Práctica 8 (Tema 12): Problema de Euler implementado en Imperativo y Funcional con Java
+- Práctica 9 (Tema 13): Patrón Pub/Sub con Kafka
+- Práctica 10 (Tema 14): Mejorando la estructura de un Microservicio con ArchUnit
+ 
 ## ¿Como probar en local?
 
 ````
